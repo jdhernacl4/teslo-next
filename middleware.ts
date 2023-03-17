@@ -40,6 +40,7 @@ export const config = {
     '/checkout/summary', 
     '/admin', 
     '/admin/orders', 
-    '/admin/products'
+    '/admin/products',
+    '/admin/users'
   ]
 };
